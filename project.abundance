@@ -5807,10 +5807,6 @@
                     "ioValue": 1738285994509
                 },
                 {
-                    "name": "Material Thickness",
-                    "ioValue": 0.75
-                },
-                {
                     "name": "Sheet Width",
                     "ioValue": 96
                 },
